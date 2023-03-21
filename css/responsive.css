@@ -608,15 +608,15 @@
   }
   .menu-icon.active .middle {
     opacity: 0;
-    background: #fbbd18;
+    background: #20dc19;
   }
   .menu-icon.active .bottom {
     -webkit-tra1nsform: translateY(-10px) translateX(0) rotate(-45deg);
     transform: translateY(-10px) translateX(0) rotate(-45deg);
-    background: #fbbd18;
+    background: #20dc19;
   }
   .menu-icon span {
-    background: #fbbd18;
+    background: #20dc19;
     border: none;
     height: 3px;
     width: 100%;
@@ -890,7 +890,7 @@
     width: 0;
     height: 0;
     border-top: 8px solid transparent;
-    border-right: 13px solid #fbbd18;
+    border-right: 13px solid #20dc19;
     border-left: none;
     border-bottom: 8px solid transparent;
     content: '';
